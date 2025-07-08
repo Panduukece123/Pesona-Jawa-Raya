@@ -71,6 +71,14 @@ MIT License – Silakan gunakan, modifikasi, dan distribusikan proyek ini dengan
 ## 📷 Screenshot & Preview
 
 ![preview](PREVIEW/Pesona.png)  
+_Tampilan galeri budaya dalam mode Unity_
+
+---
+![preview](PREVIEW/UI_VR.png)  
+_Tampilan galeri budaya dalam mode VR_
+
+---
+![preview](PREVIEW/UI_VR2.png)  
 _Tampilan galeri budaya dalam mode VR_
 
 ---
