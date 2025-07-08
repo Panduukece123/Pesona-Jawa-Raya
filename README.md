@@ -70,7 +70,7 @@ MIT License – Silakan gunakan, modifikasi, dan distribusikan proyek ini dengan
 
 ## 📷 Screenshot & Preview
 
-![preview](https://user-images.githubusercontent.com/your-preview-image.png)  
+![preview](PREVIEW/Pesona.png)  
 _Tampilan galeri budaya dalam mode VR_
 
 ---
